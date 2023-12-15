@@ -15,11 +15,9 @@ body{
 }
 
 .head .img{
-    background:url(./acsset/img/image12.jpg) top center /cover no-repeat;
+    background:url(../acsset/img/image12.jpg) top center /cover no-repeat;
     padding-top:50%;
     margin-top: 80px;   
-    
-
 }
 .head-nav{
     display: flex;
